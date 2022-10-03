@@ -1,4 +1,5 @@
 ##Load DESeq2
+#http://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html
 source("https://bioconductor.org/biocLite.R")
 library(DESeq2)
 library(ggplot2)
